@@ -1,0 +1,4 @@
+.vagrant
+**target/**
+**build/**
+*.class
