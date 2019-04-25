@@ -38,6 +38,7 @@ sudo apt-get update
 sudo apt-get -y install openjdk-8-jdk
 sudo dpkg --purge --force-depends ca-certificates-java
 sudo apt-get -y install ca-certificates-java
+sudo apt-get -y install docker-ce=18.06.1~ce~3-0~ubuntu
 
 # Start containers
 sudo su -
